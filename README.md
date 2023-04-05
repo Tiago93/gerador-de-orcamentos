@@ -2,6 +2,7 @@
 Aplicação geradora de orçamentos de itens e montagem de eventos
 
 # GitHub Pages
+https://www.figma.com/file/SLKJm24V2K3n4MgL52vtcN/prot%C3%B3tipo-de-gerador-de-or%C3%A7amento?node-id=26%3A2&t=zpkQpDIYqKubbzzo-1
 
 <https://github.com/Tiago93/gerador-de-orcamentos/>
 
